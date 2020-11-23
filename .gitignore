@@ -1,3 +1,4 @@
-chicago
-new_yourk_city
-washington
+dbinfo.php
+*.obj
+!config.php
+config/
