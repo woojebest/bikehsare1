@@ -1,4 +1,4 @@
 dbinfo.php
 *.obj
 !config.php
-config/
+
